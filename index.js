@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-  const name = process.env.NAME || 'My Very Very Beautiful World';
+  const name = process.env.NAME || 'My Very Beautiful World';
   res.send(`Hello ${name}!`);
 });
 
