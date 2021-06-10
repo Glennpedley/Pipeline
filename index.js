@@ -3,7 +3,7 @@ const app = express();
 
 app.get('/', (req, res) => {
   const name = process.env.NAME || 'My Very Very Very Very Very Beautiful World';
-  res.send(`Hello ${name}!`);
+  res.send(`<H1>Hello ${name}!</H1>`);
 });
 
 const port = process.env.PORT || 8080;
