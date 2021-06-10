@@ -26,3 +26,5 @@ nodejs)
 - Understanding roles https://cloud.google.com/iam/docs/understanding-roles
 - CI/CD deploy solutions to GCP https://gcp-examquestions.com/ci-cd-solutions-deploy-to-google-cloud-run-using-github-actions/
 - Ship code to GCP https://itnext.io/github-actions-ship-code-to-gcp-cloud-run-8d607f34e1cd
+- IFTTT documenation https://platform.ifttt.com/docs
+- How to create IFTTT action - https://community.progress.com/s/article/How-to-create-the-IFTTT-action
