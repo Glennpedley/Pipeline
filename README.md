@@ -5,9 +5,11 @@ Pipeline automates the build and deployment of a node js application running on 
 ## Process 
 
 CI/CD
-- Build and deploy node js containerized app
+
 - Create project on gcp
-- Set up service on cloud run 
+- Build/containerize sample node js app
+- Upload app to container registry  
+- Deploy on cloud run 
 - Set up service account/roles 
 - Generate key
 - Create repository 
