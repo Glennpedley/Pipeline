@@ -2,6 +2,25 @@
 
 Pipeline automates the build and deployment of a node js application running on the google cloud platform through the use of Github actions and triggers a message to a Telegram channel when an update is made to the repository.
 
+## Process 
+
+CI/CD
+- Build and deploy node js containerized app
+- Create project on gcp
+- Set up service on cloud run 
+- Set up roles 
+- Generate key
+- Create repository 
+- Push code to repository
+- Set up YAML 
+- Update SECRET in Github
+- Test 
+
+Telegram 
+- Create IFTTT/Telegram applet 
+- Update YAML 
+- Test 
+
 Service link:
 - https://helloworld-3ytqdf55bq-uc.a.run.app/
 
