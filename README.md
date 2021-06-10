@@ -8,18 +8,18 @@ Service link:
 Telegram channel:
 - visit https://t.me/pipelineupdates
 
-##Nextsteps:
+## Nextsteps:
 - Building and testing node js - (https://docs.github.com/en/actions/guides/building-and-testing-
 nodejs)
 - Including MYSQL in the backend - https://cloud.google.com/architecture/setup-mysql
 - Google Cloud Build - https://cloud.google.com/build
 
-##Quicklinks: 
+## Quicklinks: 
 - Google Cloud Shell - https://shell.cloud.google.com/
 - Google Console - https://console.cloud.google.com/
 - IFTTT - https://ifttt.com/applets/QgCvXEsq
 
-##Resources:
+## Resources:
 - https://cloud.google.com/run/docs/quickstarts/build-and-deploy/nodejs?hl=en_US
 - https://cloud.google.com/docs/?_ga=2.33727521.-1487606709.1620355765
 - https://cloud.google.com/iam/docs/creating-managing-service-accounts
