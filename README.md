@@ -12,13 +12,13 @@ CI/CD
 - Generate key
 - Create repository 
 - Push code to repository
-- Set up YAML 
+- Set up YAML file 
 - Update SECRET in Github
 - Test 
 
 Telegram 
 - Create IFTTT/Telegram applet 
-- Update YAML 
+- Update YAML file
 - Test 
 
 Service link:
