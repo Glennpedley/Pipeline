@@ -8,7 +8,7 @@ CI/CD
 - Build and deploy node js containerized app
 - Create project on gcp
 - Set up service on cloud run 
-- Set up roles 
+- Set up service account/roles 
 - Generate key
 - Create repository 
 - Push code to repository
