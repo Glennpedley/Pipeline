@@ -51,3 +51,5 @@ nodejs)
 - Ship code to GCP https://itnext.io/github-actions-ship-code-to-gcp-cloud-run-8d607f34e1cd
 - IFTTT documenation https://platform.ifttt.com/docs
 - How to create IFTTT action - https://community.progress.com/s/article/How-to-create-the-IFTTT-action
+- Mastering markdown https://guides.github.com/features/mastering-markdown/
+- Workflow syntax for GHA https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions
