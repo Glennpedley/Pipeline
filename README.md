@@ -17,13 +17,12 @@ nodejs)
 ## Quicklinks: 
 - Google Cloud Shell - https://shell.cloud.google.com/
 - Google Console - https://console.cloud.google.com/
-- IFTTT - https://ifttt.com/applets/QgCvXEsq
 
 ## Resources:
-- https://cloud.google.com/run/docs/quickstarts/build-and-deploy/nodejs?hl=en_US
-- https://cloud.google.com/docs/?_ga=2.33727521.-1487606709.1620355765
-- https://cloud.google.com/iam/docs/creating-managing-service-accounts
-- https://cloud.google.com/docs/authentication/getting-started
-- https://cloud.google.com/iam/docs/understanding-roles
-- https://gcp-examquestions.com/ci-cd-solutions-deploy-to-google-cloud-run-using-github-actions/
-- https://itnext.io/github-actions-ship-code-to-gcp-cloud-run-8d607f34e1cd
+- Build and deploy node js https://cloud.google.com/run/docs/quickstarts/build-and-deploy/nodejs?hl=en_US
+- Get started with google cloud https://cloud.google.com/docs/?_ga=2.33727521.-1487606709.1620355765
+- Creating service accounts on google cloud https://cloud.google.com/iam/docs/creating-managing-service-accounts
+- Getting start authetication https://cloud.google.com/docs/authentication/getting-started
+- Understanding roles https://cloud.google.com/iam/docs/understanding-roles
+- CI/CD deploy solutions to GCP https://gcp-examquestions.com/ci-cd-solutions-deploy-to-google-cloud-run-using-github-actions/
+- Ship code to GCP https://itnext.io/github-actions-ship-code-to-gcp-cloud-run-8d607f34e1cd
