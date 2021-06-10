@@ -12,15 +12,17 @@ CI/CD
 - Deploy on cloud run 
 - Set up service account/roles 
 - Generate key
-- Create repository 
+- Create repository in GitHub
 - Push code to repository
-- Set up YAML file 
-- Update SECRET in Github
+- Set up workflow in GHA
+- Update repository SECRETs
 - Test 
 
 Telegram 
-- Create IFTTT/Telegram applet 
-- Update YAML file
+- Set up telegram channel 
+- Get webhook URL
+- Create webhook/Telegram trigger (applet)
+- Update workflow/YAML file
 - Test 
 
 Service link:
