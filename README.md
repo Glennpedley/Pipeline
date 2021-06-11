@@ -6,7 +6,7 @@ Pipeline automates the build and deployment of a node js application running on 
 
 CI/CD
 
-- Create project on gcp
+- Create project on GCP
 - Build/containerize sample node js app
 - Upload app to container registry  
 - Deploy on cloud run 
@@ -14,7 +14,7 @@ CI/CD
 - Generate key
 - Create repository in GitHub
 - Push code to repository
-- Set up workflow in GHA
+- Set up workflow in GitHub Actions
 - Update repository SECRETs
 - Test 
 
@@ -35,7 +35,7 @@ Telegram channel:
 - Building and testing node js - (https://docs.github.com/en/actions/guides/building-and-testing-
 nodejs)
 - Including MYSQL in the backend - https://cloud.google.com/architecture/setup-mysql
-- Google Cloud Build - https://cloud.google.com/build
+- Google Cloud Build - https://cloud.google. You com/build
 
 ## Quicklinks: 
 - Google Cloud Shell - https://shell.cloud.google.com/
