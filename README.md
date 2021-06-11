@@ -26,7 +26,7 @@ Telegram
 - Test 
 
 Service link:
-- https://helloworld-3ytqdf55bq-uc.a.run.app/
+- https://helloworld-3ytqdf55bq-uc.a.runi.app/
 
 Telegram channel:
 - https://t.me/pipelineupdates
@@ -53,3 +53,6 @@ nodejs)
 - How to create IFTTT action - https://community.progress.com/s/article/How-to-create-the-IFTTT-action
 - Mastering markdown https://guides.github.com/features/mastering-markdown/
 - Workflow syntax for GHA https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions
+- Linux commands cheatsheet https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/
+- Minimal Git/GitHub guide https://kbroman.org/github_tutorial/
+
